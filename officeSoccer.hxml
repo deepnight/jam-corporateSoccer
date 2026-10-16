@@ -1,0 +1,7 @@
+-cp src
+-swf swf/client.swf
+-swf-header 1200:768:30:FFFFFF
+-swf-lib obj\officeSoccerResources.swf
+--flash-strict
+-swf-version 11.2
+-main Main
